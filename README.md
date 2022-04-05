@@ -16,3 +16,6 @@ Question 1
 ## Contribution
 
 All functions were written together as a team
+
+## License
+https://github.com/adrianvuong/386a4/blob/3b9c33fad454137646ee38bbc0cff0540b97fecd/LICENSE.md
