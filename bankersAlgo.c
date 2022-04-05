@@ -18,7 +18,7 @@ struct need{
 	int n;
 	int m;
 }
-# need[i][j] = max[i][j] - allocated[i][j] for all i,j
+// need[i][j] = max[i][j] - allocated[i][j] for all i,j
 
 int main(){
 	int matrix[5][4] = { 
